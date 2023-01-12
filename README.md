@@ -16,5 +16,5 @@
   <li> Clone o projeto </li>
   <li> Vá até o link https://drive.google.com/drive/folders/1jVXUN5pPXlFBWWbRNnKNfnUoyRRChgE3?usp=sharing, baixe as pastas e as adicione a pasta base do projeto </li>
   <li> Abra o projeto no VsCode, e no console utilize <strong> $ npm install </strong> </li>
-  <li> no console utilize <strong> parcel ./src/index.html </strong> </li>
+  <li> no console utilize <strong> $ npm run start  </strong> </li>
   </ul>
